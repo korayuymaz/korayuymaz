@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **korayuymaz@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/17pYicJ3-aS_KwsyQ1g28xH_23NrUJfF7/view"></a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/17pYicJ3-aS_KwsyQ1g28xH_23NrUJfF7/view" target="_blank" rel="noreferrer">through here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

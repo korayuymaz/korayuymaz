@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **korayuymaz@gmail.com**
 
-- 📄 Know about my experiences [https://discord.com/channels/812426202488373378/812426202488373381/1017143879281147975](https://discord.com/channels/812426202488373378/812426202488373381/1017143879281147975)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/17pYicJ3-aS_KwsyQ1g28xH_23NrUJfF7/view"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

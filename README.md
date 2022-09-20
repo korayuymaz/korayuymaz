@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Koray Uymaz</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Patika Bootcamp Project**
+- 🔭 I’m currently working on my **Personnel Website**
 
 - 🌱 I’m currently learning **React, Redux and other Libraries about Frontend Development**
 
-- 📫 How to reach me **korayuymaz@gmail.com**
+- 📫 You can reach me from my e-mail **korayuymaz@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/17pYicJ3-aS_KwsyQ1g28xH_23NrUJfF7/view" target="_blank" rel="noreferrer">through here</a>
 

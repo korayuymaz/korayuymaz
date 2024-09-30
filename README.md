@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Koray Uymaz</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3></br>
 
-- 🔭 I’m currently working at Adesso Turkey as Junior Frontend Developer
+- 🔭 I’m currently working at Adesso Turkey as a Frontend Developer
 
-- 🌱 I’m currently learning **Node.js and Next JS**
+- 🌱 I’m currently working on **Angular VueJS Node.js and Next JS**
 
 - 📫 You can reach me from my e-mail **korayuymaz@gmail.com**
 

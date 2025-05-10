@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at Adesso Turkey as a Frontend Developer
 
-- 🌱 I’m currently working on **Angular VueJS Node.js and Next JS**
+- 🌱 I’m currently working on **VueJS** in my free time and **React** at my current work 
 
 - 📫 You can reach me from my e-mail **korayuymaz@gmail.com**
 
